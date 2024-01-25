@@ -1,0 +1,26 @@
+.btn:hover{
+    background-color: blue;
+    height: 30px;
+}
+a:active {
+    background-color: yellow;
+}
+
+#link:active{
+    
+}
+
+.check:checked {
+    height: 100px;
+    width: 100px;
+    accent-color: yellow;
+}
+
+p::before{
+    content: 'Linda de cheirosa, bonita de gostosa';
+    color: yellow;
+}
+
+.nome{
+    color:purple;
+}
